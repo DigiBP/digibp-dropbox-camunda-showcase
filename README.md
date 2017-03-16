@@ -1,4 +1,4 @@
-# DigiBP Showcase: Zapier-Camunda
+# DigiBP Showcase: Dropbox-Camunda
 
 ## Releases
 
@@ -7,7 +7,7 @@
 Initial version
 
 ## Maintainer
-- [Andreas Martin](https://github.com/andreasmartin)
+- [Prajakta Diwanij](https://github.com/prajaktadiwanji)
 
 ## License
 

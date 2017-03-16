@@ -19,7 +19,7 @@ Create a flow with request,create file (dropbox) and response.
 Once you save the flow you get the URL from the request object. Copy that URL and paste it in the URL section of connector of your service in dropbox bpmn diagram file.
 
  
-
+Please check the configuration.docx file for diagrams
 
 
 

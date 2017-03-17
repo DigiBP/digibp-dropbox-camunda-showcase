@@ -1,5 +1,8 @@
 # DigiBP Showcase: Dropbox-Camunda
 
+> Note : This is web service integration project. Please try this example after you have tried the basic camunda applications.
+
+
 Please import it as maven project. Check installation guide.
 For the connector in the bpmn diagram please configure your URL from the Microsoft Web services for flow.
 
